@@ -1,2 +1,5 @@
-# dio_bootcamps
-Repositório destinado a Desafios, Projetos e Anotações dos Bootcamps da plataforma dio.me
+# :diamond_shape_with_a_dot_inside: Bootcamps DIO
+Repositório para inclusão de anotações, desafios e projetos.
+
+## :heavy_check_mark: Bootcamps em realização/realizados:
+- Geração Tech Unimed-BH - Ciência de Dados
