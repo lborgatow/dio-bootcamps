@@ -14,7 +14,7 @@ setup(
     description="Used to perform some math operations more intuitively",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/lborgatow/dio_bootcamps/tree/main/matemagica-package",
+    url="https://github.com/lborgatow/dio_bootcamps/tree/main/Gera%C3%A7%C3%A3o%20Tech%20Unimed-BH%20-%20Ci%C3%AAncia%20de%20Dados/matemagica-package",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
