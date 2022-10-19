@@ -35,7 +35,7 @@ Mapeamento Lógico do Modelo Conceitual para auxiliar na construção do Modelo 
 # Projeto Físico de Banco de Dados - E-COMMERCE
 
 ## Objetivo
-Criar um modelo lógico baseado no modelo conceitual e lógico de E-COMMERCE e realizar algumas Queries utilizando:
+Criar um modelo físico baseado no modelo conceitual e lógico de E-COMMERCE e realizar algumas Queries utilizando:
 - SELECT
 - WHERE
 - ORDER BY
