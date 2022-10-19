@@ -28,7 +28,7 @@ Mapeamento Lógico do Modelo Conceitual para auxiliar na construção do Modelo 
 # Projeto Lógico de Banco de Dados - OFICINA
 
 ## Objetivo
-Criar um modelo lógico baseado no modelo conceitual de OFICINA e realizar algumas Queries utilizando:
+Criar um modelo físico baseado no modelo conceitual de OFICINA e realizar algumas Queries utilizando:
 - SELECT
 - WHERE
 - ORDER BY
